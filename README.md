@@ -10,7 +10,7 @@ An interactive app that allows users to input colors, and when the 'Save' button
 
 ## Video
 
-- [Click here]()
+- [Click here](https://drive.google.com/drive/folders/1b5E9HUx_2IUvLgRBvNnFta-XfuFXJUOy?usp=sharing)
 
 ## Technologies Used
 
